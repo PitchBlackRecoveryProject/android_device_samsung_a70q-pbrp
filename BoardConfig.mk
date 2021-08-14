@@ -115,3 +115,6 @@ TW_SCREEN_BLANK_ON_BOOT := true
 TW_THEME := portrait_hdpi
 TW_USE_TOOLBOX := true
 TW_Y_OFFSET := 77
+
+# PBRP specific build flags
+PB_TORCH_PATH := "/sys/class/leds/led:torch_0"
